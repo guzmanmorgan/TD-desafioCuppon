@@ -1,0 +1,104 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    background-color: #28A745;
+}
+
+.logo-nav {
+    height: 25px;
+    width: 86px;
+}
+
+.fuente-nav {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.borde-menu-movil {
+    border-color: #FFFFFF80;
+}
+
+.cupon-titulo-tarjeta {
+    color: #212529;
+    font-size: 20px;
+    font-weight: 300;
+    height: 73px;
+}
+
+.tarjeta-descripcion {
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+.tarjeta-direccion {
+    color:#707070;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.tarjeta-precio-div {
+    display: flex;
+    justify-content: end;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.tarjeta-precio-normal {
+    color:#707070;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.tarjeta-precio-oferta {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #28A745;
+    margin-left: 10px;
+}
+
+.div-formulario {
+    background-color: #28A745;
+}
+
+.titulo-formulario {
+    color: #FFFFFF;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.formulario {
+    width: 278px;
+}
+
+.caja-formulario {
+    background-color: #FFFFFF;
+    border-color: #DDDDDD;
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.btn-enviar {
+    background-color: #F8F9FA;
+    border-color: #DDDDDD;
+    color: #212529;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.logo-footer {
+    height: 24px;
+    width: 82px;
+}
+
+.texto-footer {
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+}
